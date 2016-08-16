@@ -1,0 +1,4 @@
+[submodule "themes/desttic"]
+	path = themes/desttic
+	url = https://github.com/desttinghim/desttic
+	branch = master
