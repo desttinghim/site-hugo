@@ -4,4 +4,4 @@ title = "Welcome"
 
 +++
 
-Hello everybody! This is my blog
+Hello everybody! This is my blog. I'll mostly be using it for talking about programming, but there will also be electronics, games, writing, and drawing at some point or another.
