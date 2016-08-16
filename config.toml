@@ -1,7 +1,7 @@
 baseurl = "http://desttinghim.github.io/"
 languageCode = "en-us"
 title = "Desttinghim"
-theme = "startbootstrap-clean-blog"
+theme = "desttic"
 paginate = 10
 canonifyurls = true
 

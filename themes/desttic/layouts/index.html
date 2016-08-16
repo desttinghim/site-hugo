@@ -1,0 +1,18 @@
+{{ partial "header.html" }}
+
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				{{ range first 4 (where .Data.Pages "Type" "post") }}
+					{{.Render "summary"}}
+				{{ end }}
+				<ul class="pager">
+					<li>
+						<a href="{{.Site.BaseURL}}/post/">Older Posts &rarr;</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+{{ partial "footer.html" }}
