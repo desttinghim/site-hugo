@@ -1,0 +1,37 @@
+baseurl = "http://desttinghim.github.io/"
+languageCode = "en-us"
+title = "Desttinghim"
+theme = "startbootstrap-clean-blog"
+paginate = 10
+canonifyurls = true
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[author]
+	name = "Louis Pearson"
+
+[params]
+	DateForm = "Mon, Jan 2, 2006"
+	Description = "A student interested in everything"
+	Author = "Louis Pearson"
+	email = "desttinghimgame@gmail.com"
+
+[[params.social]]
+	title="twitter"
+	url="https://twitter.com/desttinghim"
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/desttinghim"
+
+[[menu.main]]
+	name = "Home"
+	url = "/"
+	weight = -200
+
+[[menu.main]]
+	name = "About"
+	url = "/about/"
+	weight = -180

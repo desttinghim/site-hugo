@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desttinghim</title>
+    <link>http://desttinghim.github.io/</link>
+    <description>Recent content on Desttinghim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2016 13:45:03 -0500</lastBuildDate>
+    <atom:link href="http://desttinghim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://desttinghim.github.io/about/</link>
+      <pubDate>Tue, 16 Aug 2016 13:45:03 -0500</pubDate>
+      
+      <guid>http://desttinghim.github.io/about/</guid>
+      <description>&lt;p&gt;Desttinghim spent the first years of his life living in Utah, after which he moved around to all sorts of places around the United States. He currently lives in Wisconsin, though he&amp;rsquo;ll be moving to Idaho to start college soon. Desttinghim is a student, game developer, programmer, electrical engineer, writer, and artist. He hopes to eventually be able to do all of these things in a cozy home under a hill.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://desttinghim.github.io/post/welcome/</link>
+      <pubDate>Tue, 16 Aug 2016 13:01:55 -0500</pubDate>
+      
+      <guid>http://desttinghim.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;Hello everybody! This is my blog&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
