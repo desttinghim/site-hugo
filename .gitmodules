@@ -1,6 +1,3 @@
 [submodule "themes/desttic"]
 	path = themes/desttic
 	url = https://github.com/desttinghim/desttic
-[submodule "public"]
-	path = public
-	url = https://github.com/desttinghim/desttinghim.github.io
